@@ -1,8 +1,4 @@
 # Branch GitHub API
-
-
-GitHub: https://github.com/dstryje
-
 A Spring Boot REST API that retrieves public GitHub user profile information along with associated repositories and returns a structured response based on the Branch engineering take-home assignment requirements.
 
 ---
@@ -248,3 +244,4 @@ Caching was intentionally not implemented in order to keep the solution aligned 
 Developed by **Daniel Stryjewski**.
 
 The goal of this project was to create a simple and maintainable API solution while following clean architecture principles and keeping the implementation aligned with the scope of the assignment.
+GitHub: https://github.com/dstryje
