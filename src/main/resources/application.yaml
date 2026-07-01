@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: branch-github-api
+
+githubapi:
+  base-url: https://api.github.com
+  user-path: /users/{username}
+  repos-path: /users/{username}/repos
+  accept: application/vnd.github+json
+  version: 2022-11-28
+  user-agent: branch-github-api
